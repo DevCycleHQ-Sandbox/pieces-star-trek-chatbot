@@ -33,7 +33,7 @@ Clone the repository and install the required packages.
 
    ```bash
    git clone https://github.com/devcyclehq-sandbox/pieces-star-trek-chatbot.git
-   cd star-trek-chatbot
+   cd pieces-star-trek-chatbot
    ```
 
 2. Create a virtual environment (optional but recommended):
